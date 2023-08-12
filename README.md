@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="left"> 
   Visitors: <br>
-  <img src="https://profile-counter.glitch.me/Saboten758/count.svg" />
+  <img src="https://profile-counter.glitch.me/rishavmukherjeee/count.svg" />
 </p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/rishavmukherjeee/">
