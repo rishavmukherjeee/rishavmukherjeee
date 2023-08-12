@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<p align="left"> 
+  Visitors: <br>
+  <img src="https://profile-counter.glitch.me/Saboten758/count.svg" />
+</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/rishavmukherjeee/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
